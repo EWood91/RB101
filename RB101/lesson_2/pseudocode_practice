@@ -1,0 +1,13 @@
+METHOD 1 - returns sum of two ints
+
+informal
+Get first number from user
+Get second number from user
+add two numbers and return it
+
+Formal
+START
+
+GET number1
+GET number2
+SET answer = number1 + number2
